@@ -1,0 +1,45 @@
+// DM Environment file for Survival Island v0.2.1.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "assets"
+#define FILE_DIR "assets/effects"
+#define FILE_DIR "assets/mobs"
+#define FILE_DIR "assets/mobs/hostileNPCS"
+#define FILE_DIR "assets/mobs/male"
+#define FILE_DIR "assets/objs"
+#define FILE_DIR "assets/turfs"
+#define FILE_DIR "assets/ui"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "_readme.dm"
+#include "assets\maps\Island1.dmm"
+#include "assets\ui\gui.dmf"
+#include "bin\main.dm"
+#include "bin\mechanics\inventory.dm"
+#include "bin\mechanics\keyboard.dm"
+#include "bin\mechanics\lighting.dm"
+#include "bin\mechanics\time.dm"
+#include "bin\mobs\login.dm"
+#include "bin\mobs\mob.dm"
+#include "bin\mobs\npc.dm"
+#include "bin\mobs\player.dm"
+#include "bin\mobs\saveload.dm"
+#include "bin\objs\HUD.dm"
+#include "bin\objs\items.dm"
+#include "bin\objs\magic.dm"
+#include "bin\world\terrain.dm"
+#include "bin\world\turf.dm"
+#include "bin\world\updatelog.dm"
+#include "bin\world\worldgen.dm"
+// END_INCLUDE
+

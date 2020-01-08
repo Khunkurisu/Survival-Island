@@ -1,0 +1,939 @@
+macro "gameMacros"
+	elem 
+		name = "Center+REP"
+	elem 
+		name = "Northeast+REP"
+	elem 
+		name = "Southeast+REP"
+	elem 
+		name = "Southwest+REP"
+	elem 
+		name = "Northwest+REP"
+	elem 
+		name = "West+REP"
+	elem 
+		name = "North+REP"
+	elem 
+		name = "East+REP"
+	elem 
+		name = "South+REP"
+	elem 
+		name = "0"
+		command = "keyDown \"0\""
+	elem 
+		name = "0+UP"
+		command = "keyUp \"0\""
+	elem 
+		name = "1"
+		command = "keyDown \"1\""
+	elem 
+		name = "1+UP"
+		command = "keyUp \"1\""
+	elem 
+		name = "2"
+		command = "keyDown \"2\""
+	elem 
+		name = "2+UP"
+		command = "keyUp \"2\""
+	elem 
+		name = "3"
+		command = "keyDown \"3\""
+	elem 
+		name = "3+UP"
+		command = "keyUp \"3\""
+	elem 
+		name = "4"
+		command = "keyDown \"4\""
+	elem 
+		name = "4+UP"
+		command = "keyUp \"4\""
+	elem 
+		name = "5"
+		command = "keyDown \"5\""
+	elem 
+		name = "5+UP"
+		command = "keyUp \"5\""
+	elem 
+		name = "6"
+		command = "keyDown \"6\""
+	elem 
+		name = "6+UP"
+		command = "keyUp \"6\""
+	elem 
+		name = "7"
+		command = "keyDown \"7\""
+	elem 
+		name = "7+UP"
+		command = "keyUp \"7\""
+	elem 
+		name = "8"
+		command = "keyDown \"8\""
+	elem 
+		name = "8+UP"
+		command = "keyUp \"8\""
+	elem 
+		name = "9"
+		command = "keyDown \"9\""
+	elem 
+		name = "9+UP"
+		command = "keyUp \"9\""
+	elem 
+		name = "A"
+		command = "keyDown \"A\""
+	elem 
+		name = "A+UP"
+		command = "keyUp \"A\""
+	elem 
+		name = "B"
+		command = "keyDown \"B\""
+	elem 
+		name = "B+UP"
+		command = "keyUp \"B\""
+	elem 
+		name = "C"
+		command = "keyDown \"C\""
+	elem 
+		name = "C+UP"
+		command = "keyUp \"C\""
+	elem 
+		name = "D"
+		command = "keyDown \"D\""
+	elem 
+		name = "D+UP"
+		command = "keyUp \"D\""
+	elem 
+		name = "E"
+		command = "keyDown \"E\""
+	elem 
+		name = "E+UP"
+		command = "keyUp \"E\""
+	elem 
+		name = "F"
+		command = "keyDown \"F\""
+	elem 
+		name = "F+UP"
+		command = "keyUp \"F\""
+	elem 
+		name = "G"
+		command = "keyDown \"G\""
+	elem 
+		name = "G+UP"
+		command = "keyUp \"G\""
+	elem 
+		name = "H"
+		command = "keyDown \"H\""
+	elem 
+		name = "H+UP"
+		command = "keyUp \"H\""
+	elem 
+		name = "I"
+		command = "keyDown \"I\""
+	elem 
+		name = "I+UP"
+		command = "keyUp \"I\""
+	elem 
+		name = "J"
+		command = "keyDown \"J\""
+	elem 
+		name = "J+UP"
+		command = "keyUp \"J\""
+	elem 
+		name = "K"
+		command = "keyDown \"K\""
+	elem 
+		name = "K+UP"
+		command = "keyUp \"K\""
+	elem 
+		name = "L"
+		command = "keyDown \"L\""
+	elem 
+		name = "L+UP"
+		command = "keyUp \"L\""
+	elem 
+		name = "M"
+		command = "keyDown \"M\""
+	elem 
+		name = "M+UP"
+		command = "keyUp \"M\""
+	elem 
+		name = "N"
+		command = "keyDown \"N\""
+	elem 
+		name = "N+UP"
+		command = "keyUp \"N\""
+	elem 
+		name = "O"
+		command = "keyDown \"O\""
+	elem 
+		name = "O+UP"
+		command = "keyUp \"O\""
+	elem 
+		name = "P"
+		command = "keyDown \"P\""
+	elem 
+		name = "P+UP"
+		command = "keyUp \"P\""
+	elem 
+		name = "Q"
+		command = "keyDown \"Q\""
+	elem 
+		name = "Q+UP"
+		command = "keyUp \"Q\""
+	elem 
+		name = "R"
+		command = "keyDown \"R\""
+	elem 
+		name = "R+UP"
+		command = "keyUp \"R\""
+	elem 
+		name = "S"
+		command = "keyDown \"S\""
+	elem 
+		name = "S+UP"
+		command = "keyUp \"S\""
+	elem 
+		name = "T"
+		command = "keyDown \"T\""
+	elem 
+		name = "T+UP"
+		command = "keyUp \"T\""
+	elem 
+		name = "U"
+		command = "keyDown \"U\""
+	elem 
+		name = "U+UP"
+		command = "keyUp \"U\""
+	elem 
+		name = "V"
+		command = "keyDown \"V\""
+	elem 
+		name = "V+UP"
+		command = "keyUp \"V\""
+	elem 
+		name = "W"
+		command = "keyDown \"W\""
+	elem 
+		name = "W+UP"
+		command = "keyUp \"W\""
+	elem 
+		name = "X"
+		command = "keyDown \"X\""
+	elem 
+		name = "X+UP"
+		command = "keyUp \"X\""
+	elem 
+		name = "Y"
+		command = "keyDown \"Y\""
+	elem 
+		name = "Y+UP"
+		command = "keyUp \"Y\""
+	elem 
+		name = "Z"
+		command = "keyDown \"Z\""
+	elem 
+		name = "Z+UP"
+		command = "keyUp \"Z\""
+	elem 
+		name = "["
+		command = "keyDown \"[\""
+	elem 
+		name = "[+UP"
+		command = "keyUp \"[\""
+	elem 
+		name = "]"
+		command = "keyDown \"]\""
+	elem 
+		name = "]+UP"
+		command = "keyUp \"]\""
+
+
+window "adminMenu"
+	elem "adminMenu"
+		type = MAIN
+		pos = 281,0
+		size = 252x478
+		anchor1 = none
+		anchor2 = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		macro = "gameMacros"
+	elem "adminInfo"
+		type = INFO
+		pos = 0,0
+		size = 248x497
+		anchor1 = 0,0
+		anchor2 = 98,100
+		background-color = #ffffff
+		drop-zone = true
+		saved-params = ""
+		multi-line = false
+
+window "chatWindow"
+	elem "chatWindow"
+		type = MAIN
+		pos = 281,0
+		size = 339x440
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "emoteButton"
+		type = BUTTON
+		pos = 275,413
+		size = 61x27
+		anchor1 = 81,94
+		anchor2 = 99,100
+		saved-params = "is-checked"
+		text = "Emote"
+		command = "Emote"
+	elem "oocToggle"
+		type = BUTTON
+		pos = 212,413
+		size = 60x27
+		anchor1 = 63,94
+		anchor2 = 80,100
+		saved-params = "is-checked"
+		text = "OOC Toggle"
+		command = ".winset \"oocToggle.is-checked=true ? testInput.command= OOC : testInput.command= Say\""
+		button-type = pushbox
+	elem "testOutput"
+		type = OUTPUT
+		pos = 0,0
+		size = 339x408
+		anchor1 = 0,0
+		anchor2 = 100,93
+		text-color = #4e4e4e
+		background-color = #d26900
+		is-default = true
+		saved-params = "max-lines"
+	elem "testInput"
+		type = INPUT
+		pos = 0,413
+		size = 210x27
+		anchor1 = 0,94
+		anchor2 = 62,100
+		text-color = #ffffff
+		background-color = #000000
+		saved-params = ""
+		command = "Say \""
+
+window "equipWindow"
+	elem "equipWindow"
+		type = MAIN
+		pos = 281,0
+		size = 640x480
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "bagGrid"
+		type = GRID
+		pos = 0,0
+		size = 640x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #000080
+		background-color = #ff750f
+		drop-zone = true
+		right-click = true
+		saved-params = ""
+		cells = 1x1
+		current-cell = 1,1
+		highlight-color = #000000
+
+window "extravsplit"
+	elem "extravsplit"
+		type = MAIN
+		pos = 281,0
+		size = 640x507
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "secondvsplit"
+		type = CHILD
+		pos = 0,0
+		size = 640x507
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #d26900
+		saved-params = "splitter"
+		left = "equipWindow"
+		right = "spellWindow"
+		is-vert = false
+		splitter = 45
+
+window "iconWindow"
+	elem "iconWindow"
+		type = MAIN
+		pos = 281,0
+		size = 303x241
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Icons"
+		statusbar = false
+		can-close = false
+		can-minimize = false
+	elem "iconGrid"
+		type = GRID
+		pos = 0,0
+		size = 303x241
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #3050cd
+		saved-params = ""
+		cells = 1x1
+		current-cell = 1,1
+		show-names = false
+		link-color = #53d02f
+		line-color = #91f507
+		highlight-color = #000000
+
+window "newload"
+	elem "newload"
+		type = MAIN
+		pos = 489,304
+		size = 208x58
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "New or Load?"
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "load"
+		type = BUTTON
+		pos = 114,13
+		size = 85x32
+		anchor1 = 55,23
+		anchor2 = 96,77
+		saved-params = "is-checked"
+		text = "Load"
+		command = "LOAD"
+	elem "new"
+		type = BUTTON
+		pos = 9,13
+		size = 85x32
+		anchor1 = 4,23
+		anchor2 = 45,77
+		saved-params = "is-checked"
+		text = "New"
+		command = "NEW"
+
+window "secondaryvsplit"
+	elem "secondaryvsplit"
+		type = MAIN
+		pos = 281,0
+		size = 640x507
+		anchor1 = none
+		anchor2 = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "secondvsplit"
+		type = CHILD
+		pos = 0,0
+		size = 640x507
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #d26900
+		saved-params = "splitter"
+		left = "extravsplit"
+		right = "chatWindow"
+		is-vert = false
+		splitter = 45
+
+window "spellWindow"
+	elem "spellWindow"
+		type = MAIN
+		pos = 281,0
+		size = 640x480
+		anchor1 = none
+		anchor2 = none
+		background-color = none
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "bagGrid"
+		type = GRID
+		pos = 0,0
+		size = 640x480
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = #000080
+		background-color = #ff750f
+		drop-zone = true
+		right-click = true
+		saved-params = ""
+		cells = 1x1
+		current-cell = 1,1
+		highlight-color = #000000
+
+window "statpoint"
+	elem "statpoint"
+		type = MAIN
+		pos = 281,0
+		size = 239x397
+		anchor1 = none
+		anchor2 = none
+		background-color = #d75b00
+		is-visible = false
+		saved-params = "pos;size;is-minimized;is-maximized"
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+	elem "button1"
+		type = BUTTON
+		pos = 156,356
+		size = 67x25
+		anchor1 = 65,90
+		anchor2 = 93,96
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "Finished"
+		command = "statSend"
+	elem "pointsLeft"
+		type = LABEL
+		pos = 111,356
+		size = 34x25
+		anchor1 = 47,90
+		anchor2 = 61,96
+		background-color = #ff750f
+		saved-params = ""
+		text = "45"
+	elem "remainingLabel"
+		type = LABEL
+		pos = 22,356
+		size = 89x25
+		anchor1 = 9,90
+		anchor2 = 47,96
+		background-color = #ff750f
+		saved-params = ""
+		text = "Points Remaining: "
+	elem "staDown"
+		type = BUTTON
+		pos = 5,317
+		size = 23x25
+		anchor1 = 2,80
+		anchor2 = 12,86
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"sta"
+	elem "staUp"
+		type = BUTTON
+		pos = 155,317
+		size = 22x25
+		anchor1 = 65,80
+		anchor2 = 74,86
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"sta\""
+	elem "staCurrent"
+		type = LABEL
+		pos = 185,317
+		size = 38x25
+		anchor1 = 78,80
+		anchor2 = 93,86
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "staLabel"
+		type = LABEL
+		pos = 35,317
+		size = 111x25
+		anchor1 = 15,80
+		anchor2 = 61,86
+		background-color = #ff750f
+		saved-params = ""
+		text = "Stamina"
+	elem "vitDown"
+		type = BUTTON
+		pos = 5,278
+		size = 23x25
+		anchor1 = 2,70
+		anchor2 = 12,76
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"vit\""
+	elem "vitUp"
+		type = BUTTON
+		pos = 155,278
+		size = 22x25
+		anchor1 = 65,70
+		anchor2 = 74,76
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"vit\""
+	elem "vitCurrent"
+		type = LABEL
+		pos = 185,278
+		size = 38x25
+		anchor1 = 78,70
+		anchor2 = 93,76
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "vitLabel"
+		type = LABEL
+		pos = 35,278
+		size = 111x25
+		anchor1 = 15,70
+		anchor2 = 61,76
+		background-color = #ff750f
+		saved-params = ""
+		text = "Vitality"
+	elem "strDown"
+		type = BUTTON
+		pos = 5,241
+		size = 23x23
+		anchor1 = 2,61
+		anchor2 = 12,67
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"str\""
+	elem "strUp"
+		type = BUTTON
+		pos = 155,241
+		size = 22x23
+		anchor1 = 65,61
+		anchor2 = 74,67
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"str\""
+	elem "strCurrent"
+		type = LABEL
+		pos = 185,241
+		size = 38x23
+		anchor1 = 78,61
+		anchor2 = 93,67
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "strLabel"
+		type = LABEL
+		pos = 35,241
+		size = 111x23
+		anchor1 = 15,61
+		anchor2 = 61,67
+		background-color = #ff750f
+		saved-params = ""
+		text = "Strength"
+	elem "balDown"
+		type = BUTTON
+		pos = 5,202
+		size = 23x24
+		anchor1 = 2,51
+		anchor2 = 12,57
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"bal\""
+	elem "balUp"
+		type = BUTTON
+		pos = 155,202
+		size = 22x24
+		anchor1 = 65,51
+		anchor2 = 74,57
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"bal\""
+	elem "balCurrent"
+		type = LABEL
+		pos = 185,202
+		size = 38x24
+		anchor1 = 78,51
+		anchor2 = 93,57
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "balLabel"
+		type = LABEL
+		pos = 35,202
+		size = 111x24
+		anchor1 = 15,51
+		anchor2 = 61,57
+		background-color = #ff750f
+		saved-params = ""
+		text = "Balance"
+	elem "dexDown"
+		type = BUTTON
+		pos = 5,163
+		size = 23x24
+		anchor1 = 2,41
+		anchor2 = 12,47
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"dex\""
+	elem "dexUp"
+		type = BUTTON
+		pos = 155,163
+		size = 22x24
+		anchor1 = 65,41
+		anchor2 = 74,47
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"dex\""
+	elem "dexCurrent"
+		type = LABEL
+		pos = 185,163
+		size = 38x24
+		anchor1 = 78,41
+		anchor2 = 93,47
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "dexLabel"
+		type = LABEL
+		pos = 35,163
+		size = 111x24
+		anchor1 = 15,41
+		anchor2 = 61,47
+		background-color = #ff750f
+		saved-params = ""
+		text = "Dexterity"
+	elem "perDown"
+		type = BUTTON
+		pos = 5,126
+		size = 23x23
+		anchor1 = 2,32
+		anchor2 = 12,38
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"per\""
+	elem "perUp"
+		type = BUTTON
+		pos = 155,126
+		size = 22x23
+		anchor1 = 65,32
+		anchor2 = 74,38
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"per\""
+	elem "perCurrent"
+		type = LABEL
+		pos = 185,126
+		size = 38x23
+		anchor1 = 78,32
+		anchor2 = 93,38
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "perLabel"
+		type = LABEL
+		pos = 35,126
+		size = 111x23
+		anchor1 = 15,32
+		anchor2 = 61,38
+		background-color = #ff750f
+		saved-params = ""
+		text = "Perception"
+	elem "willDown"
+		type = BUTTON
+		pos = 5,87
+		size = 23x24
+		anchor1 = 2,22
+		anchor2 = 12,28
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"will\""
+	elem "willUp"
+		type = BUTTON
+		pos = 155,87
+		size = 22x24
+		anchor1 = 65,22
+		anchor2 = 74,28
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"will\""
+	elem "willCurrent"
+		type = LABEL
+		pos = 185,87
+		size = 38x24
+		anchor1 = 78,22
+		anchor2 = 93,28
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "willLabel"
+		type = LABEL
+		pos = 35,87
+		size = 111x24
+		anchor1 = 15,22
+		anchor2 = 61,28
+		background-color = #ff750f
+		saved-params = ""
+		text = "Will"
+	elem "spiDown"
+		type = BUTTON
+		pos = 5,48
+		size = 23x24
+		anchor1 = 2,12
+		anchor2 = 12,18
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"spi\""
+	elem "spiUp"
+		type = BUTTON
+		pos = 155,48
+		size = 22x24
+		anchor1 = 65,12
+		anchor2 = 74,18
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"spi\""
+	elem "spiCurrent"
+		type = LABEL
+		pos = 185,48
+		size = 38x24
+		anchor1 = 78,12
+		anchor2 = 93,18
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "spiLabel"
+		type = LABEL
+		pos = 35,48
+		size = 111x24
+		anchor1 = 15,12
+		anchor2 = 61,18
+		background-color = #ff750f
+		saved-params = ""
+		text = "Spirit"
+	elem "intDown"
+		type = BUTTON
+		pos = 5,9
+		size = 23x24
+		anchor1 = 2,2
+		anchor2 = 12,8
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "-"
+		command = "pointDown \"int\""
+	elem "intUp"
+		type = BUTTON
+		pos = 155,9
+		size = 22x24
+		anchor1 = 65,2
+		anchor2 = 74,8
+		background-color = #ff750f
+		saved-params = "is-checked"
+		text = "+"
+		command = "pointUp \"int\""
+	elem "inCurrent"
+		type = LABEL
+		pos = 185,9
+		size = 38x24
+		anchor1 = 78,2
+		anchor2 = 93,8
+		background-color = #ff750f
+		saved-params = ""
+		text = "5"
+	elem "intLabel"
+		type = LABEL
+		pos = 35,9
+		size = 111x24
+		anchor1 = 15,2
+		anchor2 = 61,8
+		background-color = #ff750f
+		saved-params = ""
+		text = "Intelligence"
+
+window "testWindow"
+	elem "testWindow"
+		type = MAIN
+		pos = 232,0
+		size = 1118x631
+		anchor1 = none
+		anchor2 = none
+		is-default = true
+		saved-params = "pos;size;is-minimized;is-maximized"
+		title = "Test Window"
+		macro = "gameMacros"
+	elem "testvsplit"
+		type = CHILD
+		pos = 0,0
+		size = 1118x647
+		anchor1 = 0,0
+		anchor2 = 100,100
+		background-color = #d26900
+		saved-params = "splitter"
+		left = "testmap"
+		right = "secondaryvsplit"
+		is-vert = true
+		splitter = 68
+
+window "testmap"
+	elem "testmap"
+		type = MAIN
+		pos = 281,0
+		size = 640x480
+		anchor1 = none
+		anchor2 = none
+		background-color = #000000
+		saved-params = "pos;size;is-minimized;is-maximized"
+		titlebar = false
+		statusbar = false
+		can-close = false
+		can-minimize = false
+		can-resize = false
+		is-pane = true
+	elem "map"
+		type = MAP
+		pos = 0,0
+		size = 640x499
+		anchor1 = 0,0
+		anchor2 = 100,100
+		text-color = none
+		is-default = true
+		drop-zone = true
+		saved-params = "icon-size"
+

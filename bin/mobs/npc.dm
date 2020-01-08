@@ -1,0 +1,2 @@
+mob/npc
+	hostile
